@@ -20,7 +20,7 @@
 
 - rohlikdev
 
-## ENGLISH
+## SETUP - ENGLISH
 ## Steps for setting up the PostgreSQL database
 
 
@@ -51,11 +51,6 @@
 
 
 
-----------------------------------------------------------------------
-
-
-
-
 
 Useful information:
 
@@ -80,9 +75,11 @@ port: 5432,
 3\. Launch the live server for "index.html"
 
 4\. Done
-----------------------------------------------------------------------
 
-## ČESKY
+
+
+
+## INSTALACE - ČESKY
 ## Kroky pro setup PostgreSQL databáze
 
 
@@ -108,12 +105,6 @@ port: 5432,
 
 
 (pro zobrazení dat z databáze si otevřete "rezervace\_db" -> "Schemas" -> "Tables" -> "reservations" / "rooms" (Pravým tlačítkem na View/Edit data -> All Rows)
-
-
-
-
-
-----------------------------------------------------------------------
 
 
 
