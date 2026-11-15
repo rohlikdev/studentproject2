@@ -1,28 +1,24 @@
-\## Student project 2
+## Student project 2
 
-\- Part of my online portfolio: https://rohlikdev.vercel.app/
-
-
-
-\## Tech used
-
-\-  JavaScript, NodeJS, PostgreSQL
+- Part of my online portfolio: https://rohlikdev.vercel.app/
 
 
 
-\## Live demo
+## Tech used
 
-\- NOT AVAILABLE, ONLY LOCAL
+-  JavaScript, NodeJS, PostgreSQL
 
 
 
-\## Author
+## Live demo
 
-\- rohlikdev
-----------------------------------------------------------------------
+- NOT AVAILABLE, ONLY LOCAL
 
-\----------------------------------------------------------------------
 
+
+## Author
+
+- rohlikdev
 
 ## ENGLISH
 ## Steps for setting up the PostgreSQL database
@@ -55,7 +51,7 @@
 
 
 
-\----------------------------------------------------------------------
+----------------------------------------------------------------------
 
 
 
@@ -86,7 +82,7 @@ port: 5432,
 4\. Done
 ----------------------------------------------------------------------
 
-\----------------------------------------------------------------------
+----------------------------------------------------------------------
 
 
 ## ČESKY
@@ -120,7 +116,7 @@ port: 5432,
 
 
 
-\----------------------------------------------------------------------
+----------------------------------------------------------------------
 
 
 
@@ -138,7 +134,7 @@ port: 5432,
 
 
 
-\## Kroky pro setup Webu
+## Kroky pro setup Webu
 
 
 
